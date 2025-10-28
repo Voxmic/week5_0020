@@ -10,6 +10,5 @@ public class belajarVariabel {
         System.out.println("Nilai angka: " + angka);
         System.out.println("Nilai teks: " + teks);
         System.out.println("Nilai desimal: " + desimal);
-        System.out.println("Nilai benar: " + benar);
     }
 }
